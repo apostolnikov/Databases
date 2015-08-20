@@ -1,0 +1,4 @@
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\bin\Debug\ConcatenateStrings.dll
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\bin\Debug\ConcatenateStrings.pdb
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\obj\Debug\ConcatenateStrings.dll
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\obj\Debug\ConcatenateStrings.pdb

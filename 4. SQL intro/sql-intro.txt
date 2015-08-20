@@ -1,0 +1,13 @@
+SQL (pronounced "ess-que-el") stands for Structured Query Language. SQL is used to communicate with a database.
+
+DML
+
+DML is abbreviation of Data Manipulation Language. It is used to retrieve, store, modify, delete, insert and update data in database.
+
+Examples: SELECT, UPDATE, INSERT statements
+
+DDL
+
+DDL is abbreviation of Data Definition Language. It is used to create and modify the structure of database objects in database.
+
+Examples: CREATE, ALTER, DROP statements

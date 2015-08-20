@@ -1,0 +1,28 @@
+There are the domain integrity, the entity integrity, the referential integrity and the foreign key integrity constraints.
+
+Domain Integrity:
+Domain integrity means the definition of a valid set of values for an attribute. You define 
+- data type, 
+- length or size
+- is null value allowed
+- is the value unique or not
+for an attribute.
+
+Entity Integrity Constraint:
+The entity integrity constraint states that primary keys can't be null. There must be a 
+proper value in the primary key field.
+
+Referential Integrity Constraint:
+The referential integrity constraint is specified between two tables and it is used to maintain the consistency among rows between the two tables.
+The rules are:
+1. You can't delete a record from a primary table if matching records exist in a related table.
+2. You can't change a primary key value in the primary table if that record has related records.
+3. You can't enter a value in the foreign key field of the related table that doesn't exist in the primary key of the primary table.
+4. However, you can enter a Null value in the foreign key, specifying that the records are unrelated.
+
+Foreign Key Integrity Constraint
+There are two foreign key integrity constraints: cascade update related fields and cascade delete related rows. 
+These constraints affect the referential integrity constraint.
+
+For more information : http://www2.amk.fi/digma.fi/www.amk.fi/opintojaksot/0303011/1146161367915/1146161783414/1146163065754/1146163167961.html
+

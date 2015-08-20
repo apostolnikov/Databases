@@ -1,0 +1,1 @@
+In database terms, a table is responsible for storing data in the database. Database tables consist of rows and columns.

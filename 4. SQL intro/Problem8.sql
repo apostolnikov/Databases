@@ -1,0 +1,1 @@
+SELECT e.FirstName + '.' + e.LastName + '@softuni.bg' AS [Full Email Addresses] FROM Employees e

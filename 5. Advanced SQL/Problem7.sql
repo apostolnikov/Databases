@@ -1,0 +1,1 @@
+SELECT COUNT(ManagerID) as [Employees with Manager] FROM Employees

@@ -1,0 +1,9 @@
+C:\Users\Gaby\Desktop\ConcatStrings\ConcatStrings\obj\Debug\ConcatStrings.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Desktop\ConcatStrings\ConcatStrings\bin\Debug\ConcatStrings.dll
+C:\Users\Gaby\Desktop\ConcatStrings\ConcatStrings\bin\Debug\ConcatStrings.pdb
+C:\Users\Gaby\Desktop\ConcatStrings\ConcatStrings\obj\Debug\ConcatStrings.dll
+C:\Users\Gaby\Desktop\ConcatStrings\ConcatStrings\obj\Debug\ConcatStrings.pdb
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\bin\Debug\ConcatStrings.dll
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\bin\Debug\ConcatStrings.pdb
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\obj\Debug\ConcatStrings.dll
+C:\Users\Gaby\Desktop\MyFiles\Education\Software\SoftwareUniversity\3Level - Databases and Web Applications\Databases\HomeworksSolutions\Database Performance\ConcatStrings\ConcatStrings\obj\Debug\ConcatStrings.pdb

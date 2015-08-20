@@ -1,0 +1,4 @@
+Hierarchical (tree)
+Network / graph
+Relational (tables)
+Object-oriented
